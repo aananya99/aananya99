@@ -1,5 +1,5 @@
 ![Banner](A.png)
-#Hello, I'm Ananya 👩‍💻
+# Hello, I'm Ananya 👩‍💻 |
 Web Developer
 
 ## 📝About Me
@@ -9,6 +9,13 @@ I am highly motivated to learn,improve and contribute to meaningful web applicat
 ## 📍 Location & Contact
 - Rangpur, Bangladesh
 - ananyadasgupta@gmail.com
+
+## 🚀 Current Activities
+- Learning **React & Next.js**
+- Exploring modern web development tools
+
+## 💻 Skills
+###
 
 
 
