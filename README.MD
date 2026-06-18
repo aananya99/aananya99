@@ -7,7 +7,7 @@ I am a Web Developer passionate about building clean and responsive designs. I w
 I am highly motivated to learn,improve and contribute to meaningful web applications.
 
 ## 📍 Location & Contact
--Bangladesh
+- Bangladesh
 - ananyadasgupta17@gmail.com
 
 ## 🚀 Current Activities
