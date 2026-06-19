@@ -1,6 +1,6 @@
 
 # Hello, I'm Ananya 👩‍💻 
-## MERN Stack Web Developer
+## MERN Stack Developer
 
 ## 📝About Me
 I am a Web Developer passionate about building clean and responsive designs. I work with web technologies and build real-world projects.
