@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 # Hello, I'm Ananya 👩‍💻 
 ## MERN Stack Web Developer
 
