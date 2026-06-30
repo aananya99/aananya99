@@ -1,19 +1,19 @@
 
-# Hello, I'm Ananya 👩‍💻 
-## Aspiring MERN Stack Developer
+## Hello, I'm Ananya 👩‍💻 
+### Aspiring MERN Stack Developer
 
 ### 📝About Me
 I am aspiring MERN stack developer passionate about building responsive and user-friendly web applications.
 
-### 📍 Location & Contact
+### 📍Location & Contact
 - Bangladesh
 - ananyadasgupta17@gmail.com
 
-## 🚀 Current Activities
+### 🚀Current Activities
 - Learning **React & Next.js**
 - Exploring modern web development tools
 
-## 💻 Skills
+## 💻Skills
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
