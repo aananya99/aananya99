@@ -36,7 +36,8 @@ I am highly motivated to learn,improve and contribute to meaningful web applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/CHANGE_THIS)
 
 ## GitHub Stats: 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aananya99&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aananya99)
 
 
 
