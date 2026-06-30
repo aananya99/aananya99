@@ -3,7 +3,7 @@
 ### Aspiring MERN Stack Developer
 
 ### 📝About Me
-I am aspiring MERN stack developer passionate about building responsive and user-friendly web applications.
+I am an aspiring MERN Stack Developer passionate about building responsive and user-friendly web applications.
 
 ### 📍Location & Contact
 - Bangladesh
