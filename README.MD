@@ -37,7 +37,7 @@ I am highly motivated to learn,improve and contribute to meaningful web applicat
 
 ## GitHub Stats: 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aananya99)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aananya99&show_icons=true&theme=radical)
 
 
 
